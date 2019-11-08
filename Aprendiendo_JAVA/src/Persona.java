@@ -13,5 +13,9 @@ public class Persona {
 		System.out.println("Apellido Paterno :" +apellidoPaterno);
 		System.out.println("Apelido Materno :" + apellidoMaterno);
 	}
+	
+	int sumar(int a, int b) {
+		return a+b;
+	}
 
 }

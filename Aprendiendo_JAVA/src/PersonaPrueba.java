@@ -18,5 +18,9 @@ public class PersonaPrueba {
 	//Volvemos a llamar al metodo
 	System.out.println("\nNuevos valores del objeto Persona");
 	p1.desplegarNombre();
+	
+	p1.sumar(5, 10);
+	int resultado = p1.sumar(10, 12);
+	System.out.println("\nEl resultado " + resultado);
 	}
 }
