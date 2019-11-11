@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35597" started-at="2019-11-11T18:25:25 COT" finished-at="2019-11-11T18:26:00 COT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35597" started-at="2019-11-11T18:25:25 COT" finished-at="2019-11-11T18:26:00 COT">
+      <class name="com.automatizacion.bove.InicioSesionTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.automatizacion.bove.InicioSesionTest@22a67b4]" name="beforeClass" is-config="true" duration-ms="7049" started-at="2019-11-11T18:25:25 COT" finished-at="2019-11-11T18:25:32 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="IniciarSesion()[pri:0, instance:com.automatizacion.bove.InicioSesionTest@22a67b4]" name="IniciarSesion" duration-ms="28505" started-at="2019-11-11T18:25:32 COT" finished-at="2019-11-11T18:26:00 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IniciarSesion -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.automatizacion.bove.InicioSesionTest@22a67b4]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-11-11T18:26:00 COT" finished-at="2019-11-11T18:26:00 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.automatizacion.bove.InicioSesionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
